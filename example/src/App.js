@@ -1,6 +1,7 @@
 import React from 'react'
 import { useCodeFundAd } from '@codefund/react-api-hook'
 
+// TODO
 const App = () => {
   const { ad, loading, error } = useCodeFundAd('0')
   return <Ad adMarkup={ad} loadingState={loading} errorMessage={error} />

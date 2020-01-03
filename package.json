@@ -4,7 +4,7 @@
   "description": "CodeFund.io API hook for React.js",
   "author": "andrewmcodes",
   "license": "MIT",
-  "repository": "andrewmcodes/react-api-hook",
+  "repository": "andrewmcodes/codefund-react-api-hook",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
