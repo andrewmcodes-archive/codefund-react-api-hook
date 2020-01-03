@@ -1,13 +1,11 @@
 import React from 'react'
-
-import { useMyHook } from '@codefund/react-codefund-hook'
+import { useCodeFundAd } from '@codefund/react-api-hook'
 
 const App = () => {
-  const example = useMyHook()
-  return (
-    <div>
-      {example}
-    </div>
-  )
+  const { ad, loading, error } = useCodeFundAd('0')
+  return <Ad adMarkup={ad} loadingState={loading} errorMessage={error} />
 }
+
+const Ad = ({ adMarkup, loadingState, errorMessage }) => <div dangerouslySetInnerHTML={adMarkup} />
+
 export default App

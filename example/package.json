@@ -1,6 +1,6 @@
 {
-  "name": "@codefund/react-codefund-hook-example",
-  "homepage": "https://andrewmcodes.github.io/@codefund/react-codefund-hook",
+  "name": "@codefund/react-api-hook-example",
+  "homepage": "https://andrewmcodes.github.io/@codefund/react-api-hook",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -8,7 +8,7 @@
     "react": "link:../node_modules/react",
     "react-dom": "^16.9.0",
     "react-scripts": "^3.0.1",
-    "@codefund/react-codefund-hook": "link:.."
+    "@codefund/react-api-hook": "link:.."
   },
   "scripts": {
     "start": "react-scripts start",

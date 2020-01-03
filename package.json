@@ -1,10 +1,10 @@
 {
-  "name": "@codefund/react-codefund-hook",
+  "name": "@codefund/react-api-hook",
   "version": "1.0.0",
   "description": "CodeFund.io API hook for React.js",
   "author": "andrewmcodes",
   "license": "MIT",
-  "repository": "andrewmcodes/react-codefund-hook",
+  "repository": "andrewmcodes/react-api-hook",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -19,7 +19,8 @@
     "start": "rollup -c -w",
     "prepare": "yarn run build",
     "predeploy": "cd example && yarn install && yarn run build",
-    "deploy": "gh-pages -d example/build"
+    "deploy": "gh-pages -d example/build",
+    "format": "prettier --write \"src/**/*\""
   },
   "dependencies": {},
   "peerDependencies": {
@@ -33,6 +34,7 @@
     "@types/react": "^16.7.22",
     "cross-env": "^5.2.0",
     "gh-pages": "^2.0.1",
+    "prettier": "^1.19.1",
     "react": "^16.9.0",
     "react-scripts": "^3.0.1",
     "react-test-renderer": "^16.9.0",

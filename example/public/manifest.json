@@ -1,6 +1,6 @@
 {
-  "short_name": "@codefund/react-codefund-hook",
-  "name": "@codefund/react-codefund-hook",
+  "short_name": "@codefund/react-api-hook",
+  "name": "@codefund/react-api-hook",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
