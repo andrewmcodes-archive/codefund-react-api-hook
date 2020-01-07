@@ -1,9 +1,8 @@
 {
-  "name": "@codefund/react-api-hook-example",
+  "name": "@codefund/react-api-hook-demo",
   "homepage": "https://andrewmcodes.github.io/codefund-react-api-hook",
   "version": "0.0.1",
   "license": "MIT",
-  "private": true,
   "dependencies": {
     "@codefund/react-api-hook": "link:..",
     "react": "link:../node_modules/react",
