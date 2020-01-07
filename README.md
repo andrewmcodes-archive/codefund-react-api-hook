@@ -7,9 +7,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> CodeFund.io API hook for React.js
-
 [![NPM](https://img.shields.io/npm/v/@codefund/react-api-hook.svg)](https://www.npmjs.com/package/@codefund/react-api-hook)
+
+> CodeFund.io API hook for React.js
 
 ## Install
 
