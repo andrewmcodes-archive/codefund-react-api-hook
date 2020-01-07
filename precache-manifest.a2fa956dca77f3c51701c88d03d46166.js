@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c032cdcac6a979751f1f46dbeb5076e2",
+    "revision": "d10ba0936b86ca5b53fad5aeb6304986",
     "url": "/codefund-react-api-hook/index.html"
   },
   {
-    "revision": "02f3aeb9284c60aeea6c",
+    "revision": "32b83e7f090cecb276c0",
     "url": "/codefund-react-api-hook/static/css/main.8e29e2e4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/codefund-react-api-hook/static/js/2.1cb9cf69.chunk.js.LICENSE"
   },
   {
-    "revision": "02f3aeb9284c60aeea6c",
-    "url": "/codefund-react-api-hook/static/js/main.bfd1ea3d.chunk.js"
+    "revision": "32b83e7f090cecb276c0",
+    "url": "/codefund-react-api-hook/static/js/main.c855ca45.chunk.js"
   },
   {
     "revision": "5a1a3d77ce8b766e756a",

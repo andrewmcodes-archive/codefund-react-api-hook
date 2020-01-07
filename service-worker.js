@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/codefund-react-api-hook/precache-manifest.28ad63b1f4c8129b72a4375bf17f6c63.js"
+  "/codefund-react-api-hook/precache-manifest.a2fa956dca77f3c51701c88d03d46166.js"
 );
 
 self.addEventListener('message', (event) => {
