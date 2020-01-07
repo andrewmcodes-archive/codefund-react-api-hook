@@ -1,13 +1,14 @@
 {
   "name": "@codefund/react-api-hook-example",
   "homepage": "https://andrewmcodes.github.io/codefund-react-api-hook",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "private": true,
   "dependencies": {
     "@codefund/react-api-hook": "link:..",
     "react": "link:../node_modules/react",
     "react-dom": "^16.9.0",
+    "react-lorem-ipsum": "^1.4.4",
     "react-scripts": "^3.0.1",
     "react-skeleton-loader": "^1.0.4"
   },
