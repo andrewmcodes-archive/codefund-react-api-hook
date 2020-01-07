@@ -9,7 +9,7 @@
 
 > CodeFund.io API hook for React.js
 
-[![NPM](https://img.shields.io/npm/v/@codefund/react-api-hook.svg)](https://www.npmjs.com/package/@codefund/react-api-hook) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@codefund/react-api-hook.svg)](https://www.npmjs.com/package/@codefund/react-api-hook)
 
 ## Install
 
