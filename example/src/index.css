@@ -1,5 +1,16 @@
-/* body {
+@import url("https://blokkfontcom-losgordos.netdna-ssl.com/v2/blokkfont.css");
+
+body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
-} */
+}
+
+.blokk {
+  font-family: "BLOKK";
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

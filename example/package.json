@@ -5,10 +5,11 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@codefund/react-api-hook": "link:..",
     "react": "link:../node_modules/react",
     "react-dom": "^16.9.0",
     "react-scripts": "^3.0.1",
-    "@codefund/react-api-hook": "link:.."
+    "react-skeleton-loader": "^1.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
