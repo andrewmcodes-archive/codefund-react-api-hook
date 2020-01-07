@@ -7,10 +7,11 @@ export default function useCodeFundAd(id: string): ICodeFundAdResponse {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | undefined>()
 
-  // if (!id) return { ad, loading, error }
+  if (!id || process.env.NODE_ENV !== "production")
+    return { ad, loading, error }
 
   useEffect(() => {
-    const apiUrl = `https://stage.codefund.io/properties/${id}/funder.json`
+    const apiUrl = `https://app.codefund.io/properties/${id}/funder.json`
     setLoading(true)
     fetch(apiUrl)
       .then(fetchStatusHandler)
